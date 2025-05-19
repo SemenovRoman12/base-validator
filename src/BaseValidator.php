@@ -1,6 +1,6 @@
 <?php
 
-namespace Src\Validation;
+namespace AbstractValidator;
 
 /**
  * Базовый класс для всех валидаторов.
